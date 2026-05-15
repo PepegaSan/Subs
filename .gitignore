@@ -1,0 +1,7 @@
+video_text_tool_settings.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/

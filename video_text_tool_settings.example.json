@@ -1,0 +1,17 @@
+{
+  "geometry": "",
+  "last_video_dir": "",
+  "box_border_w": 0,
+  "text_visible_from": "",
+  "text_visible_to": "",
+  "line_spacing_px": 0,
+  "overlay_segments": [],
+  "codec": "H.264 / AVC (libx264)",
+  "bitrate": "8M",
+  "export_container": "mp4",
+  "gif_fps": 10,
+  "gif_max_width": 250,
+  "gif_palette_colors": 128,
+  "last_overlay_font_dir": "",
+  "last_italic_font_dir": ""
+}
